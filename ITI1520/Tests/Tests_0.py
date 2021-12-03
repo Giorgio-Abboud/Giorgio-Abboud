@@ -1,2 +1,4 @@
-for i in range(0, 100):
-    print("Samir is weird")
+if not 16 > 3 * 2 and 10 == 5 * 2:
+    print("l")
+else:
+    print("p")
